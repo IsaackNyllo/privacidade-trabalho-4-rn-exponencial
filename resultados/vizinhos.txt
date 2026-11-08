@@ -1,0 +1,5 @@
+r = 0.5: vizinhos por pessoa de teste: mínimo 0, mediana 245, máximo 2322; sem nenhum vizinho: 56 de 1000
+r = 1: vizinhos por pessoa de teste: mínimo 0, mediana 261, máximo 2324; sem nenhum vizinho: 50 de 1000
+r = 1.5: vizinhos por pessoa de teste: mínimo 0, mediana 2677, máximo 11426; sem nenhum vizinho: 2 de 1000
+r = 2: vizinhos por pessoa de teste: mínimo 1, mediana 2857, máximo 11563; sem nenhum vizinho: 0 de 1000
+r = 6: vizinhos por pessoa de teste: mínimo 44222, mediana 44222, máximo 44222; sem nenhum vizinho: 0 de 1000
